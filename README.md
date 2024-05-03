@@ -2,7 +2,6 @@
 - 👀 I’m interested in Game Development.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: mammardogar@gmail.com.
-- ⚡ Fun fact: A day on Venus is longer than a year on Venus.
 
 <!---
 PhoenixAD23/PhoenixAD23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
